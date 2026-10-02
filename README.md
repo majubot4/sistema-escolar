@@ -45,7 +45,8 @@ Depois, abra no navegador o endereço mostrado no terminal (geralmente `http://l
 > Se aparecer uma mensagem de erro de conexão na tela, confira se o Terminal 1 (json-server) ainda está rodando.
 
 ## Screenshot
-<img width="1919" height="930" alt="image" src="https://github.com/user-attachments/assets/ea06cf4e-996b-4192-9119-40357f5d7ec9" />
+<img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/bca48ab2-889d-40ed-9efa-a0e52bfc36e3" />
+
 <img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/617eef0e-319d-4ada-92ad-2f7ac6d35242" />
 
 
